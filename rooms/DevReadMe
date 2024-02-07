@@ -1,0 +1,14 @@
+Tiles are aranged by map/type/number
+So the grass tile for map 1 is:
+1ga
+
+another example, the second road tile for map 3
+3rb
+
+rooms are have an r at the begging like
+r3ra
+which would be the 3rd room, road, and the first one.
+
+global variabls have a g next too them like
+grwa
+which is global room wall a
